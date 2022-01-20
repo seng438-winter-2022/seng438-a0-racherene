@@ -23,7 +23,7 @@
   - Write your full name and your group members' full name as well.  
     - **Your Name**: your-name, your-github-account 
     - **Team Member 1**: Abhay Khosla, Abhay2412
-    - **Team Member 2**: team-member-two-name, github-account
+    - **Team Member 2**: Alexis Hamrak, alexis-hamrak
     
 - Add changed README.md to local repository: `c:\seng438\seng438-a0-ymbibalan\git add . `
 - Commit changes: `git commit -m "update team information"` 
