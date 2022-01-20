@@ -24,7 +24,8 @@
     - **Your Name**: your-name, your-github-account 
     - **Team Member 1**: Abhay Khosla, Abhay2412
     - **Team Member 2**: Alexis Hamrak, alexis-hamrak
-    
+    - **Team Member 3**: Rachel Renegado, racherene
+    - **Team Member 4**: team-member-four-name, github-account
 - Add changed README.md to local repository: `c:\seng438\seng438-a0-ymbibalan\git add . `
 - Commit changes: `git commit -m "update team information"` 
      
